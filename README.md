@@ -66,8 +66,8 @@ Expects a stringified json in the body with a `username` and a  `password`
 
 #### Examples
 
-* Luke Skywalker: `/people/1`
-* Death Star: `/starships/9`
+* Luke Skywalker: `GET /entity/people/1`
+* Death Star: `GET /entity/starships/9`
 
 #### Available categories
 

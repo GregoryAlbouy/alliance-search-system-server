@@ -10,7 +10,7 @@
  * BUT.
  * 
  * It can't be used that way because of TypeScript decorators behaviour,
- * which all method decorators BEFORE class decorators
+ * which calls method decorators BEFORE class decorators
  */
 
 const Controller = () => {
