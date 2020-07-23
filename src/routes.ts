@@ -9,8 +9,6 @@ const controllerList = Object.keys(controllers)
 
 const getControllerRoutes = (controller: RouteController) => controller.routes
 
-console.log(controllers, controllerList)
-
 const routes: ServerRoute[] = controllerList.map(getControllerRoutes).flat()
 console.log(routes)
 
