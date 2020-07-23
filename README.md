@@ -11,7 +11,7 @@ https://alliance-search-system.ew.r.appspot.com
 ### Get auth token
 
 Send a `POST` request to `/auth` with the stringified data in the body:
-```javascript
+```json
 // request body with valid information: 
 {
     "username": "Luke",
