@@ -1,6 +1,7 @@
 # Alliance-search-system-server
 
-Node.js back-end for a [Swapi](https://swapi.dev/) search engine using [Hapi framework](https://hapi.dev) + TypeScript.
+Node.js back-end for a [Swapi](https://swapi.dev/) search engine using [Hapi framework](https://hapi.dev) + TypeScript.  
+Client side will come later.
 
 ## Demo
 
