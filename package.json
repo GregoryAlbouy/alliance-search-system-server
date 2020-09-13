@@ -17,7 +17,7 @@
     "dotenv": "^8.2.0",
     "hapi-auth-jwt2": "^10.1.0",
     "jsonwebtoken": "^8.5.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@types/bcrypt": "^3.0.0",
